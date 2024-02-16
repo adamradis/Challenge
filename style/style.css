@@ -4,7 +4,7 @@ body{
 }
 
 
-.pozadi{
+.bg{
     min-height: 800px;
     display: flex;
     justify-content: center;
@@ -36,7 +36,7 @@ main{
     right: 78px;
 }
 
-.popis{
+.banka{
     display: flex;
     justify-content: center;
     position: absolute;
@@ -55,7 +55,7 @@ h1{
     
 }
 
-.karta{
+.card{
     right: 100px;
     border-radius: 30px;
     border-style: inset;
@@ -70,11 +70,11 @@ h1{
     overflow: hidden;
 }
 
-.veverka{
+.bgkarty{
     position: absolute; 
 }
 
-.master{
+.masterlogo{
     position: absolute;
     left: 15px;
     top: 10px;
@@ -91,13 +91,13 @@ h1{
     height: 15px;
 }
 
-.wifi{
+.wifiobr{
     position: absolute;
     left: 265px;
     top: 15px;
 }
 
-.jmeno{
+.udaj{
     position: absolute;
     font-family: 'Montserrat', sans-serif;
     width: 74px;
@@ -108,7 +108,7 @@ h1{
     left: 20px;
 }
 
-.cislo{
+.cislokarty{
     position: absolute;
     font-family: 'Montserrat', sans-serif;
     width: 189px;
@@ -120,7 +120,7 @@ h1{
     font-weight: 600;
 }
 
-.napis{
+.nemecky_jm{
     position: absolute;
     font-family: 'Montserrat', sans-serif;
     width: 45px;
